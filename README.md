@@ -1,6 +1,6 @@
-# Assignment #2
+# Drawing Application
 
-It's basically a drawing application.
+Basic drawing application.
 
 ### Video Example:
 
